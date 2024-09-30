@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // added the products
 
     // To select an element by ID use: $w('#elementID')
 
