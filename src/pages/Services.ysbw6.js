@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    //Edited service text
 
     // To select an element by ID use: $w('#elementID')
 
