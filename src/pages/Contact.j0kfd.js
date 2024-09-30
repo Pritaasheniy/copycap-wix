@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // edited the question
 
     // To select an element by ID use: $w('#elementID')
 
