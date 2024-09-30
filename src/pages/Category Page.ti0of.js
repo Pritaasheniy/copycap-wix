@@ -4,6 +4,8 @@
 $w.onReady(function () {
     // Write your JavaScript here
     // added the products
+    // added the images
+    // added the descriptions of product
 
     // To select an element by ID use: $w('#elementID')
 
