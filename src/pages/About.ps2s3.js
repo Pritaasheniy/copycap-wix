@@ -5,6 +5,8 @@ $w.onReady(function () {
     // Write your JavaScript here
     //Edited about us part
     //Added images
+    //Edited texts.
+    //Added new images.
 
     // To select an element by ID use: $w('#elementID')
 
