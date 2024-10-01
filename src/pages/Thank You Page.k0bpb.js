@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    //edited the background colours
 
     // To select an element by ID use: $w('#elementID')
 
