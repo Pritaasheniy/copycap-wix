@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    //Edited customer's order invoice.
 
     // To select an element by ID use: $w('#elementID')
 
