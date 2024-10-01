@@ -3,10 +3,10 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
-    //Edited about us part
-    //Added images
-    //Edited texts.
-    //Added new images.
+    //edited about us part
+    //added images
+    //edited texts.
+    //added new images.
 
     // To select an element by ID use: $w('#elementID')
 
