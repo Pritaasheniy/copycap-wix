@@ -9,7 +9,7 @@ $w.onReady(function () {
     //edited homepage texting.
     //edited homepage wordings.
     //edited images.
-    //editted images
+    //edited images
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
