@@ -4,7 +4,7 @@
 $w.onReady(function () {
     // Write your JavaScript here
     // Added the images
-
+    // edited the title
 
     // To select an element by ID use: $w('#elementID')
 
