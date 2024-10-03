@@ -3,6 +3,10 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // added the shipping info
+    // added the return policy
+    // added the details of products
+    // added the images of products
     // edited wishlist of the customers.
     // edited customers's order invoice.
 
